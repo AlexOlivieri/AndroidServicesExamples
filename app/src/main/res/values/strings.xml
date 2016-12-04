@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceExample</string>
+    <string name="button_start_service">Start Service</string>
+    <string name="button_start_multithread_service">Multithread</string>
+    <string name="button_start_multithread_with_looper_service">LooperService</string>
+</resources>
